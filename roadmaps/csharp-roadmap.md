@@ -12,14 +12,15 @@ A key step in becoming a C# developer is building and running your first program
 
 ### Useful links
 
+- [C# Tour](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 -	[Get Visual Studio](https://visualstudio.microsoft.com/vs/) 
-- [C# Fundamentals](https://www.tutorialspoint.com/csharp/)
+- [Quickstart: Use Visual Studio to create your first C# console app](https://docs.microsoft.com/en-us/visualstudio/ide/quickstart-csharp-console)
 
 ### Exploring on your own
 
-- [Introduction to C#](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/index)
+- [C# Fundamentals](https://www.tutorialspoint.com/csharp/)
 - [C# Guide](https://docs.microsoft.com/en-us/dotnet/csharp/)
-- [Quickstart: Use Visual Studio to create your first C# console app](https://docs.microsoft.com/en-us/visualstudio/ide/quickstart-csharp-console)
+- [Introduction to C#](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/index)
 
 ## Branching and Looping [CSC102]
 
