@@ -13,6 +13,8 @@ A key step in becoming a C# developer is building and running your first program
 ### Useful links
 
 - [C# Tour](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+- [Eight Reasons C# is the Best Language for Mobile Development](https://blog.xamarin.com/eight-reasons-c-sharp-is-the-best-language-for-mobile-development/)
+- [Is C# good for mobile development?](https://www.quora.com/Is-C-good-for-mobile-development)
 -	[Get Visual Studio](https://visualstudio.microsoft.com/vs/) 
 - [Quickstart: Use Visual Studio to create your first C# console app](https://docs.microsoft.com/en-us/visualstudio/ide/quickstart-csharp-console)
 
