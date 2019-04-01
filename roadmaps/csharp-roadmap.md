@@ -64,9 +64,15 @@ There are many ways to organize your code that all lead to correct programs. One
 
 A C# class is a container that groups together data and its associated operations. The data is typically stored in fields with a construct called a property controlling access. The operations are called methods and provide the logic to perform work related to the class. This module shows you how to define and invoke both properties and methods. By the end of the module, you will be able to write a class that models the data and behavior of a real-world object.
 
+- Create a class with methods to provide behavior
+- Utilize properties to hide our fields
+
 ### Useful links
 
-### Exploring on your own
+- [Methods](https://docs.microsoft.com/en-us/dotnet/csharp/methods)
+- [Properties](https://docs.microsoft.com/en-us/dotnet/csharp/properties)
+
+> Recommended Prerequisites: Object-Oriented Programming [CSC103]
 
 ## Building a Console Application [CSC105]
 
