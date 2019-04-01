@@ -33,7 +33,14 @@ Programs often need to evaluate data and make choices based on the values they d
 
 ### Useful links
 
+- [Learn conditional logic with branch and loop statements](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/branches-and-loops)
+
 ### Exploring on your own
+
+- [Selection statements (C# Reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/selection-statements)
+- [Iteration Statements (C# Reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/iteration-statements)
+
+> Recommended Prerequisites: Introduction to C# [CSC101].
 
 ## Object-Oriented Programming [CSC103]
 
