@@ -46,9 +46,19 @@ Programs often need to evaluate data and make choices based on the values they d
 
 There are many ways to organize your code that all lead to correct programs. One of the challenges of being a developer is evaluating these different options and choosing the one that best fits your goals. One popular approach is called Object-Oriented Programming (OOP). This module introduces the core OOP principles and shows you how to apply them to your C# code.
 
+- Determine classes and relationships in a program
+- Create a class with fields to maintain state
+- Use enumerations to define constant values
+
 ### Useful links
 
-### Exploring on your own
+- [Object-Oriented Programming (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/object-oriented-programming)
+- [Enum](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/enum)
+- [Enumeration types (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/enumeration-types)
+
+<!-- ### Exploring on your own -->
+
+> Recommended Prerequisites: Branching and Looping [CSC102]
 
 ## Adding Behavior into our Apps [CSC104]
 
