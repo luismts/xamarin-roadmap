@@ -103,9 +103,19 @@ Previous module introduced the core features of programming with C#. This module
 
 A key part of working with methods is sending arguments in and getting results out. This module shows you how to use optional parameters to add flexibility to method inputs and how to use output parameters to return multiple values. Another important issue for any programming languages is initialization of data fields. Whenever you create a new object, you should think about what values you should assign to the fields to ensure the object is ready for use. This module covers how to use special methods called constructors to perform this initialization.
 
+- Pass information into methods
+- Receive information from methods
+- Initialize objects using constructors
+
 ### Useful links
 
+- [Passing Parameters](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/passing-parameters)
+- [return](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/return)
+- [Using Constructors](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/using-constructors)
+
 ### Exploring on your own
+
+- [Constructors](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/constructors)
 
 > Recommended Prerequisites: Building a Console Application [CSC105]
 
