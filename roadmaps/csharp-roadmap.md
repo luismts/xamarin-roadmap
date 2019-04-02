@@ -69,8 +69,13 @@ A C# class is a container that groups together data and its associated operation
 
 ### Useful links
 
+- [Classes](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/classes)
 - [Methods](https://docs.microsoft.com/en-us/dotnet/csharp/methods)
 - [Properties](https://docs.microsoft.com/en-us/dotnet/csharp/properties)
+
+### Exploring on your own
+
+- [Classes and Structs](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/)
 
 > Recommended Prerequisites: Object-Oriented Programming [CSC103]
 
@@ -78,9 +83,19 @@ A C# class is a container that groups together data and its associated operation
 
 Previous module introduced the core features of programming with C#. This module will put these individual pieces together by guiding you through the creation of a larger-scale application. You will build a Console Application that reads user input, converts the input from a string to a numeric type, performs a calculation that includes branching and looping, and display the results to the user.
 
+- Define a custom type using a class
+- Create properties to control access to data
+- Repeat a block of code with a loop
+- Create methods to add behavior to classes
+
 ### Useful links
 
+- [Console Application](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/console-teleprompter)
+
 ### Exploring on your own
+
+- [Tutorial: Create a simple C# console app in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console?view=vs-2017)
+- [Inside a C# program](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/)
 
 ## Method Parameters and Constructors [CSC106]
 
