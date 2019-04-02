@@ -97,6 +97,8 @@ Previous module introduced the core features of programming with C#. This module
 - [Tutorial: Create a simple C# console app in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console?view=vs-2017)
 - [Inside a C# program](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/)
 
+> Recommended Prerequisites: Adding Behavior into our Apps [CSC104]
+
 ## Method Parameters and Constructors [CSC106]
 
 A key part of working with methods is sending arguments in and getting results out. This module shows you how to use optional parameters to add flexibility to method inputs and how to use output parameters to return multiple values. Another important issue for any programming languages is initialization of data fields. Whenever you create a new object, you should think about what values you should assign to the fields to ensure the object is ready for use. This module covers how to use special methods called constructors to perform this initialization.
@@ -104,6 +106,8 @@ A key part of working with methods is sending arguments in and getting results o
 ### Useful links
 
 ### Exploring on your own
+
+> Recommended Prerequisites: Building a Console Application [CSC105]
 
 ## Collections [CSC107]
 
@@ -113,6 +117,8 @@ Almost every program will have a collection of data. For example, an email app s
 
 ### Exploring on your own
 
+> Recommended Prerequisites:
+
 ## Debugging and Exceptions [CSC108]
 
 Even careful programmers make mistakes. They might forget to validate user input or let a loop continue to run for one extra iteration after it should have stopped. Issues like these are so common that finding and fixing errors is considered a core programming skill. This module shows you two debugging techniques: using a debugger to examine the state of your program during its execution and using exceptions to write code that responds to problems as the program runs.
@@ -120,6 +126,8 @@ Even careful programmers make mistakes. They might forget to validate user input
 ### Useful links
 
 ### Exploring on your own
+
+> Recommended Prerequisites:
 
 ## Inheritance and Polymorphism [CSC109]
 
@@ -129,6 +137,8 @@ Computer programming involves creating a software model of things that exist in 
 
 ### Exploring on your own
 
+> Recommended Prerequisites:
+
 ## GC Fundamentals [CSC270]
 
 Most modern programming languages and runtimes include Garbage Collection because it relieves the developer of some of the burden of managing memory. Unfortunately, it is not completely automatic because the way your write your code impacts the performance of the Garbage Collector. This module shows you how to help the Garbage Collector do its job efficiently. You will apply coding strategies that can reduce the workload of the Garbage Collector and use environment variables to tune the Garbage Collector's behavior for the way your app uses memory.
@@ -136,6 +146,8 @@ Most modern programming languages and runtimes include Garbage Collection becaus
 ### Useful links
 
 ### Exploring on your own
+
+> Recommended Prerequisites:
 
 ## Managing Non-Memory Resources [CSC271]
 
@@ -145,6 +157,8 @@ Apps often need to work with resources such as local databases, files, and netwo
 
 ### Exploring on your own
 
+> Recommended Prerequisites:
+
 ## Using Async and Await [CSC350]
 
 Apps often need to perform long-running operations like downloading data from the cloud or accessing the local file system. The libraries that do this work for you generally offer asynchronous APIs that let your app stay responsive to user input while these operations run in the background. This module shows you how to use the async and await keywords to write this type of asynchronous code. You will also see the details of the underlying implementation and discuss some best practices to follow when utilizing this C# feature.
@@ -152,6 +166,8 @@ Apps often need to perform long-running operations like downloading data from th
 ### Useful links
 
 ### Exploring on your own
+
+> Recommended Prerequisites:
 
 ## Writing Multithreaded Mobile Applications [CSC351]
 
@@ -161,6 +177,8 @@ If an application appears to be stuck, the user may assume it has crashed and re
 
 ### Exploring on your own
 
+> Recommended Prerequisites:
+
 ## Introduction to Thread Safety and Synchronization [CSC352]
 
 Multithreaded code can increase parallelism and therefore help your app run faster. However, multiple threads require you to manage their access to any shared data. Adding the right amount of synchronization is tricky because too little results in corrupted data while too much decreases parallelism and slows down your app. This module begins with a thorough discussion of what makes code unsafe so you will be able to identify the parts of your app that require synchronization. It then shows you how to use the Monitor class and the C# lock keyword to synchronize access to shared data.
@@ -168,6 +186,8 @@ Multithreaded code can increase parallelism and therefore help your app run fast
 ### Useful links
 
 ### Exploring on your own
+
+> Recommended Prerequisites:
 
 ## More about Synchronization [CSC353]
 
@@ -178,3 +198,5 @@ Note: This module is a continuation of CSC352.
 ### Useful links
 
 ### Exploring on your own
+
+> Recommended Prerequisites:
