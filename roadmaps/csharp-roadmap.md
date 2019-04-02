@@ -156,11 +156,19 @@ Even careful programmers make mistakes. They might forget to validate user input
 
 Computer programming involves creating a software model of things that exist in the real world. One important real-world relationship is often described as "is-a". For example, a dog is-a animal, a truck is-a vehicle, and an undergraduate is-a student. C# includes a feature called inheritance that lets you model the is-a relationship in your code. This module shows you how to use inheritance to model the types in your world that are related though is-a. It also introduces a related idea called polymorphism that helps your code handle multiple different data types without the need to write a specific case for each one.
 
+- Use inheritance to eliminate repeated code
+- Use virtual methods and polymorphism to write generic code
+
 ### Useful links
+
+- [Inheritance in C# and .NET](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/inheritance)
+- [Polymorphism](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/polymorphism)
 
 ### Exploring on your own
 
-> Recommended Prerequisites:
+- [virtual](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/virtual)
+
+> Recommended Prerequisites: Debugging and Exceptions [CSC108]
 
 ## GC Fundamentals [CSC270]
 
@@ -168,9 +176,13 @@ Most modern programming languages and runtimes include Garbage Collection becaus
 
 ### Useful links
 
+- [Fundamentals of garbage collection](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals)
+
 ### Exploring on your own
 
-> Recommended Prerequisites:
+- [GC Class](https://docs.microsoft.com/en-us/dotnet/api/system.gc?view=netframework-4.7.2)
+
+> Recommended Prerequisites: Introduction to C# [CSC101]
 
 ## Managing Non-Memory Resources [CSC271]
 
@@ -178,9 +190,19 @@ Apps often need to work with resources such as local databases, files, and netwo
 
 ### Useful links
 
+- [What is "managed code"?](https://docs.microsoft.com/en-us/dotnet/standard/managed-code)
+- [IDisposable Interface](https://docs.microsoft.com/en-us/dotnet/api/system.idisposable?view=netframework-4.7.2)
+- [Cleaning Up Unmanaged Resources](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/unmanaged)
+- [Finalizers](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/destructors)
+- [Using safe handles](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/implementing-dispose#using-safe-handles)
+
 ### Exploring on your own
 
-> Recommended Prerequisites:
+- [Cleaning Up Unmanaged Resources](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/unmanaged)
+- [Memory Management and Garbage Collection in .NET](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/memory-management-and-gc)
+- [SafeHandle Class](https://docs.microsoft.com/en-us/dotnet/api/system.runtime.interopservices.safehandle?view=netframework-4.7.2)
+
+> Recommended Prerequisites: GC Fundamentals [CSC270]
 
 ## Using Async and Await [CSC350]
 
@@ -188,9 +210,15 @@ Apps often need to perform long-running operations like downloading data from th
 
 ### Useful links
 
+- [async](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/async)
+- [await](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/await)
+
 ### Exploring on your own
 
-> Recommended Prerequisites:
+- [Asynchronous programming](https://docs.microsoft.com/en-us/dotnet/csharp/async)
+- [The Task asynchronous programming model in C#](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)
+
+> Recommended Prerequisites: GC Fundamentals [CSC270]
 
 ## Writing Multithreaded Mobile Applications [CSC351]
 
