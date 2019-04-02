@@ -123,21 +123,34 @@ A key part of working with methods is sending arguments in and getting results o
 
 Almost every program will have a collection of data. For example, an email app stores a list of your contacts, a web browser displays the websites you have visited, and a weather program shows the forecast for your favorite cities. To code this, you would create a collection by storing your values inside a data structure. This module shows you how to use three of the most popular collection types: array, List, and Dictionary.
 
+- Use arrays to load static data sets
+- Use lists and dictionaries to manage data
+
 ### Useful links
 
-### Exploring on your own
+- [Collections](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections)
+- [Arrays](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/)
 
-> Recommended Prerequisites:
+> Recommended Prerequisites: Method Parameters and Constructors [CSC106]
 
 ## Debugging and Exceptions [CSC108]
 
 Even careful programmers make mistakes. They might forget to validate user input or let a loop continue to run for one extra iteration after it should have stopped. Issues like these are so common that finding and fixing errors is considered a core programming skill. This module shows you two debugging techniques: using a debugger to examine the state of your program during its execution and using exceptions to write code that responds to problems as the program runs.
 
+- Use the debugger to examine executing code 
+- Throw and catch exceptions to respond to errors
+
 ### Useful links
+
+- [Tutorial: Learn to debug C# code using Visual Studio](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-debugger?view=vs-2017)
+- [try-catch](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/try-catch)
+- [throw](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/throw)
 
 ### Exploring on your own
 
-> Recommended Prerequisites:
+- [Exception Handling Statements](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/exception-handling-statements)
+
+> Recommended Prerequisites: Collections [CSC107]
 
 ## Inheritance and Polymorphism [CSC109]
 
