@@ -226,9 +226,17 @@ If an application appears to be stuck, the user may assume it has crashed and re
 
 ### Useful links
 
+- [Task Class](https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task?view=netframework-4.7.2)
+- [Exception handling (Task Parallel Library)](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/exception-handling-task-parallel-library)
+- [How to: Cancel a Task and Its Children](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/how-to-cancel-a-task-and-its-children)
+
 ### Exploring on your own
 
-> Recommended Prerequisites:
+- [Managed threading basics](https://docs.microsoft.com/en-us/dotnet/standard/threading/managed-threading-basics)
+- [Device.BeginInvokeOnMainThread(Action) Method](https://docs.microsoft.com/en-us/dotnet/api/xamarin.forms.device.begininvokeonmainthread?view=xamarin-forms)
+- [Xamarin.Essentials: MainThread](https://docs.microsoft.com/en-us/xamarin/essentials/main-thread)
+
+> Recommended Prerequisites: Using Async and Await [CSC350]
 
 ## Introduction to Thread Safety and Synchronization [CSC352]
 
@@ -236,18 +244,29 @@ Multithreaded code can increase parallelism and therefore help your app run fast
 
 ### Useful links
 
+- [Monitor Class](https://docs.microsoft.com/en-us/dotnet/api/system.threading.monitor?view=netframework-4.7.2)
+- [lock statement](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/lock-statement)
+
 ### Exploring on your own
 
-> Recommended Prerequisites:
+- [Managed threading best practices](https://docs.microsoft.com/en-us/dotnet/standard/threading/managed-threading-best-practices)
+
+> Recommended Prerequisites: Writing Multithreaded Mobile Applications [CSC351]
 
 ## More about Synchronization [CSC353]
 
 Managing multiple threads requires careful work in two areas: synchronizing access to shared data and coordinating the activity of threads working together on a common task. This module shows you two synchronization techniques: ReaderWriterLockSlim to allow multiple simultaneous reads and SemaphoreSlim to allow full access by a specific number of threads. The module also covers three coordination patterns: event-based with ManualResetEventSlim, countdown with CountdownEvent, and rendezvous with the Barrier class. Finally, the module surveys the thread-safe collections in the System.Collections.Concurrent namespace. 
 
-Note: This module is a continuation of CSC352.
-
 ### Useful links
+
+- [ReaderWriterLockSlim Class](https://docs.microsoft.com/en-us/dotnet/api/system.threading.readerwriterlockslim?view=netframework-4.7.2)
+- [SemaphoreSlim Class](https://docs.microsoft.com/en-us/dotnet/api/system.threading.semaphoreslim?view=netframework-4.7.2)
+- [ManualResetEventSlim Class](https://docs.microsoft.com/en-us/dotnet/api/system.threading.manualreseteventslim?view=netframework-4.7.2)
+- [CountdownEvent Class](https://docs.microsoft.com/en-us/dotnet/api/system.threading.countdownevent?view=netframework-4.7.2)
 
 ### Exploring on your own
 
-> Recommended Prerequisites:
+- [Thread-Safe Collections](https://docs.microsoft.com/en-us/dotnet/standard/collections/thread-safe/)
+- [System.Collections.Concurrent Namespace](https://docs.microsoft.com/en-us/dotnet/api/system.collections.concurrent?view=netframework-4.7.2)
+
+> Note: This module is a continuation of CSC352.
