@@ -6,10 +6,6 @@ This track provides an introduction to the F# programming language. This set of 
 
 Functional languages use the principle of data immutability to avoid variables that maintain state. This characteristic makes functional programs easier to validate and easier to execute in multithreaded or parallel-processing environments. This module introduces you to the F# functional programming language. You will see how to code a simple F# program and execute it using a command-line interpreter called the Read-Evaluate-Print-Loop (REPL). 
 
-- Know the role of C# and Xamarin
-- Set up and run your first program
-- Learn the fundamentals of F#
-
 ### Useful links
 
 - [What is F#](https://docs.microsoft.com/en-us/dotnet/fsharp/what-is-fsharp)
