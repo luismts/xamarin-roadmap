@@ -17,6 +17,7 @@ Functional languages use the principle of data immutability to avoid variables t
 ### Exploring on your own
 
 - [F# Guide](https://docs.microsoft.com/en-us/dotnet/fsharp/)
+- [Introduction to Functional Programming in F#](https://docs.microsoft.com/en-us/dotnet/fsharp/introduction-to-functional-programming/)
 - [Learn F# through videos](https://docs.microsoft.com/en-us/dotnet/fsharp/#learn-f-through-videos)
 - [The F# Software Foundation](https://fsharp.org/)
 
@@ -51,7 +52,23 @@ Managing in-memory data is required in most apps and F# contains powerful data-s
 
 > Recommended Prerequisites: Projects in F# [FSC102].
 
-##  Partial Application and Pattern Matching [FSC104]
+## Using Async [FSC104]
+
+Apps often need to perform long-running operations like downloading data from the cloud or accessing the local file system. The libraries that do this work for you generally offer asynchronous APIs that let your app stay responsive to user input while these operations run in the background. This module shows you how to use the async keyword to write this type of asynchronous code. You will also see the details of the underlying implementation and discuss some best practices to follow when utilizing this C# feature.
+
+### Useful links
+
+- [Async Programming in F#](https://docs.microsoft.com/en-us/dotnet/fsharp/tutorials/asynchronous-and-concurrent-programming/async)
+- [Important Info and Advice](Important Info and Advice)
+- [Asynchronous Workflows](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/asynchronous-workflows)
+
+### Exploring on your own
+
+- [Asynchronous Workflows](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/asynchronous-workflows)
+
+> Recommended Prerequisites: Data Structures in F# [FSC103]
+
+##  Partial Application and Pattern Matching [FSC105]
 
 One strength of functional languages is their ability to combine functions in concise yet powerful ways. For example, you can pass a function as a parameter to another function or adapt a general function to your specific needs by hardcoding some of the parameter values. This module shows you how to use currying and partial function application to create new functions that perform the exact operation you need. Another useful feature in many functional languages is pattern matching that lets you examine data values and branch based on some matching characteristic of the data. In this module, you will use pattern matching to select data from a collection and apply a function to transform it.
 
@@ -66,7 +83,7 @@ One strength of functional languages is their ability to combine functions in co
 
 > Recommended Prerequisites: Data Structures in F# [FSC103].
 
-##  Type Providers in F# [FSC105]
+##  Type Providers in F# [FSC106]
 
 F# makes it easy to load external data into your app. An F# Type Provider encapsulates all the necessary operations: it connects to the data source, determines the shape of the data, constructs objects, and populates the objects with the external data. This module shows you how to use Type Providers in your application. You will see how to instantiate a provider, read data, and execute queries against the provider to select only the data you need.
 
