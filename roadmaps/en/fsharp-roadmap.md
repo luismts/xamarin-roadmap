@@ -34,34 +34,15 @@ To build a real-world F# application you will use a development environment to c
 - [Get started with F# in Visual Studio for Mac](https://docs.microsoft.com/en-us/dotnet/fsharp/get-started/get-started-with-visual-studio-for-mac)
 - [Get Started with F# in Visual Studio Code](https://docs.microsoft.com/en-us/dotnet/fsharp/get-started/get-started-vscode)
 
-
 ### Exploring on your own
 
 - [F# style guide](https://docs.microsoft.com/en-us/dotnet/fsharp/style-guide/)
 
 > Recommended Prerequisites: Introduction to F# [FSC101].
 
-##  [FSC101]
+## Data Structures in F# [FSC103]
 
-Managing in-memory data is required in most apps and F# contains powerful data-storage and processing APIs to help you. The APIs are optimized for specific use-cases; for example, some work best if your data is static while others are intended for large data sets. This course shows you several common F# data structures and discusses the pros and cons of each. By the end of the course, you will be able to choose the right storage option for your application.
-
-### Useful links
-
-- []()
-- []()
-- []()
--	[]() 
-
-### Exploring on your own
-
-- []()
-- []()
-- []()
--	[]() 
-
-##  [FSC101]
-
-
+Managing in-memory data is required in most apps and F# contains powerful data-storage and processing APIs to help you. The APIs are optimized for specific use-cases; for example, some work best if your data is static while others are intended for large data sets. This course shows you several common F# data structures and discusses the pros and cons of each. By the end of the module, you will be able to choose the right storage option for your application.
 
 ### Useful links
 
@@ -77,20 +58,40 @@ Managing in-memory data is required in most apps and F# contains powerful data-s
 - []()
 -	[]() 
 
-##  [FSC101]
+##  Partial Application and Pattern Matching [FSC104]
 
-
+One strength of functional languages is their ability to combine functions in concise yet powerful ways. For example, you can pass a function as a parameter to another function or adapt a general function to your specific needs by hardcoding some of the parameter values. This course shows you how to use currying and partial function application to create new functions that perform the exact operation you need. Another useful feature in many functional languages is pattern matching that lets you examine data values and branch based on some matching characteristic of the data. In this course, you will use pattern matching to select data from a collection and apply a function to transform it.
 
 ### Useful links
 
-- []()
+- [Pattern Matching](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/pattern-matching)
 - []()
 - []()
 -	[]() 
 
 ### Exploring on your own
 
+- [Match expressions](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/match-expressions)
 - []()
+- []()
+-	[]() 
+
+> Recommended Prerequisites: Data Structures in F# [FSC103].
+
+##  Type Providers in F# [FSC105]
+
+F# makes it easy to load external data into your app. An F# Type Provider encapsulates all the necessary operations: it connects to the data source, determines the shape of the data, constructs objects, and populates the objects with the external data. This course shows you how to use Type Providers in your application. You will see how to instantiate a provider, read data, and execute queries against the provider to select only the data you need.
+
+### Useful links
+
+- [Type Providers](https://docs.microsoft.com/en-us/dotnet/fsharp/tutorials/type-providers/)
+- [Tutorial: Create a Type Provider](https://docs.microsoft.com/en-us/dotnet/fsharp/tutorials/type-providers/creating-a-type-provider)
+- []()
+-	[]() 
+
+### Exploring on your own
+
+- [The F# Type Provider SDK](https://github.com/fsprojects/FSharp.TypeProviders.SDK)
 - []()
 - []()
 -	[]() 
