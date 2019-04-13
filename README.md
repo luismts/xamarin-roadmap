@@ -8,4 +8,4 @@ I have always recommended what [Xamarin University](https://university.xamarin.c
 
 It is good to mention that the changes to the original roadmap are completely based on my criteria, and on the help of some collaborators, on what is believed to be able to help the whole community. 
 
-More info [here](https://luismts.com/blog/xamarin/xamarin-roadmap/). 
+**Get started** [here](https://luismts.com/blog/xamarin/xamarin-roadmap/). 
