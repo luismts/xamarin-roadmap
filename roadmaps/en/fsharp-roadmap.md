@@ -42,17 +42,14 @@ Managing in-memory data is required in most apps and F# contains powerful data-s
 
 ### Useful links
 
-- []()
-- []()
-- []()
--	[]() 
+- [Choosing between collection functions](https://fsharpforfunandprofit.com/posts/list-module-functions/)
 
 ### Exploring on your own
 
-- []()
-- []()
-- []()
--	[]() 
+- [F# Collection Types](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/fsharp-collection-types)
+- [Which Types to Use](https://docs.microsoft.com/en-us/dotnet/fsharp/tour#which-types-to-use)
+
+> Recommended Prerequisites: Projects in F# [FSC102].
 
 ##  Partial Application and Pattern Matching [FSC104]
 
@@ -81,3 +78,5 @@ F# makes it easy to load external data into your app. An F# Type Provider encaps
 ### Exploring on your own
 
 - [The F# Type Provider SDK](https://github.com/fsprojects/FSharp.TypeProviders.SDK)
+
+> Recommended Prerequisites: Type Providers in F# [FSC105].
