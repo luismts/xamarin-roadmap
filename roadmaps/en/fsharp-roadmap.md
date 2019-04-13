@@ -59,12 +59,13 @@ Apps often need to perform long-running operations like downloading data from th
 ### Useful links
 
 - [Async Programming in F#](https://docs.microsoft.com/en-us/dotnet/fsharp/tutorials/asynchronous-and-concurrent-programming/async)
-- [Important Info and Advice](Important Info and Advice)
 - [Asynchronous Workflows](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/asynchronous-workflows)
 
 ### Exploring on your own
 
 - [Asynchronous Workflows](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/asynchronous-workflows)
+- [Important Info and Advice](https://docs.microsoft.com/en-us/dotnet/fsharp/tutorials/asynchronous-and-concurrent-programming/async#important-info-and-advice)
+
 
 > Recommended Prerequisites: Data Structures in F# [FSC103]
 
