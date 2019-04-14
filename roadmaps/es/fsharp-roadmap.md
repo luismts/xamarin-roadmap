@@ -8,7 +8,7 @@ Los lenguajes funcionales utilizan el principio de la inmutabilidad de los datos
 
 ### Enlaces útiles
 
-- [¿Qué es F#](https://docs.microsoft.com/es-es/dotnet/fsharp/what-is-fsharp)
+- [¿Qué es F#?](https://docs.microsoft.com/es-es/dotnet/fsharp/what-is-fsharp)
 - [F# Tour](https://docs.microsoft.com/es-es/dotnet/fsharp/tour)
 - [Comience con F# y Xamarin](https://docs.microsoft.com/xamarin/cross-platform/platform/fsharp/)
 - [Obtener Visual Studio](https://visualstudio.microsoft.com/vs/)
