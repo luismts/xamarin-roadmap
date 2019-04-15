@@ -2,7 +2,7 @@
 
 This track provides an introduction to the F# programming language. This set of modules provides experienced C# developers with the knowledge they need to start programming in F#.
 
-## Introduction to C# [CSC101]
+## Introduction to F# [CSC101]
 
 Functional languages use the principle of data immutability to avoid variables that maintain state. This characteristic makes functional programs easier to validate and easier to execute in multithreaded or parallel-processing environments. This module introduces you to the F# functional programming language. You will see how to code a simple F# program and execute it using a command-line interpreter called the Read-Evaluate-Print-Loop (REPL). 
 
