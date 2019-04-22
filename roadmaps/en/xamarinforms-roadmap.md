@@ -73,28 +73,22 @@ Users expect to access their information anytime from any location using any dev
 
 > Recommended Prerequisites:  Introduction to Xamarin.Forms
 
-## title
+## SQLite and Mobile Data (XAM160)
 
-text
+Many apps need to store data locally on the device so it is available even when network access is unreliable. User preferences, data files, and relational data can all fall into this category. This course starts with a survey of the local-storage options available to you in your Xamarin applications. It then concentrates on storing relational data using a SQLite database. By the end of the course, you will have seen how to identify the proper location for your database file and how to insert, update, retrieve, and delete data efficiently using asynchronous I/O calls.
 
-- 
-- 
-- 
-- 
+- Understand the available data storage options
+- Create, Insert, Update, and Delete records with SQLite
+- Work with SQLite asynchronously
 
 ### Useful links
 
--	[]() 
-- []()
-- []()
-- []()
+-	[Xamarin.Forms Local Databases](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/databases) 
+- [Store Data in a Local SQLite.NET Database](https://docs.microsoft.com/en-us/xamarin/get-started/quickstarts/database)
+- [Xamarin.Forms Local Database Tutorial](https://docs.microsoft.com/en-us/xamarin/get-started/tutorials/local-database/)
+- [File Handling in Xamarin.Forms](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/files)
 
-### Exploring on your own
-
--	[]() 
-- []()
-- []()
-- []()
+> Recommended Prerequisites:  Introduction to Xamarin.Forms
 
 ## title
 
