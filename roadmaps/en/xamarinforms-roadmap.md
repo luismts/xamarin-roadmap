@@ -156,7 +156,7 @@ You're going to focus on how to properly architect your application to separate 
 
 ### Exploring on your own
 
--	[Enterprise Application Patterns using Xamarin.Forms eBook](Enterprise Application Patterns using Xamarin.Forms eBook) 
+-	[Enterprise Application Patterns using Xamarin.Forms eBook](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/enterprise-application-patterns/) 
 
 
 ## Diagnosing Memory Management Issues (XAM370)
