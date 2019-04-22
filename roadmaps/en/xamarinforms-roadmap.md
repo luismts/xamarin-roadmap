@@ -35,6 +35,7 @@ One of the advantages to using Xamarin over the traditional platform-specific ap
 
 ### Useful links
 
+- [An introduction to NuGet](https://docs.microsoft.com/en-us/nuget/what-is-nuget)
 - [Shared Projects code sharing](https://docs.microsoft.com/en-us/xamarin/cross-platform/app-fundamentals/shared-projects)
 - [.NET Standard](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
 
@@ -48,28 +49,29 @@ One of the advantages to using Xamarin over the traditional platform-specific ap
 
 > Recommended Prerequisites:  Getting Started with Xamarin (XAM101), Introduction to Xamarin.Android, Introduction to Xamarin.iOS 
 
-## title
+## Consuming REST-based Web Services (XAM150)
 
-text
+Users expect to access their information anytime from any location using any device. This leads most app developers to store data in the cloud and retrieve it as needed from client devices. REST-based web services are the dominant strategy for this type of device-to-server communication. In this course, you will see how to consume REST-based web services with HttpClient using both the managed networking stack and the platform-specific handlers that boost performance. You will also learn some common strategies for dealing with the unique challenges that mobile devices face when communicating over the network.
 
-- 
-- 
-- 
-- 
+- Obtain the device's network capabilities
+- Describe the strengths of using REST-based services
+- Consume REST services in Xamarin-based applications
+- Leverage the platform-specific networking stacks
 
 ### Useful links
 
--	[]() 
-- []()
-- []()
-- []()
+- [Introduction to Web Services](https://docs.microsoft.com/en-us/xamarin/cross-platform/data-cloud/web-services/) 
+- [Calling a REST API From a .NET Client](https://docs.microsoft.com/en-us/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net-client) 
+-	[HttpClient Class ](https://docs.microsoft.com/en-us/dotnet/api/system.net.http.httpclient) 
+- [Xamarin.Essentials: Connectivity](https://docs.microsoft.com/en-us/xamarin/essentials/connectivity?tabs=android)
+
 
 ### Exploring on your own
 
--	[]() 
-- []()
-- []()
-- []()
+-	[TodoREST Sample](https://developer.xamarin.com/samples/xamarin-forms/WebServices/TodoREST/) 
+- [Xamarin.Essentials](https://docs.microsoft.com/en-us/xamarin/essentials/?context=xamarin/)
+
+> Recommended Prerequisites:  Introduction to Xamarin.Forms
 
 ## title
 
