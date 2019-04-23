@@ -1,4 +1,4 @@
-# Cross-platform Design
+# Xamarin Cross-platform Design
 
 Learn concepts and APIs which are usable across the dominant mobile platforms (iOS, Android, and Windows). Most modules in this track use Xamarin.Forms, but the concepts can also be applied to native development.
 
