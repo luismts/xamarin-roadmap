@@ -2,7 +2,7 @@
 
 Learn concepts and APIs which are usable across the dominant mobile platforms (iOS, Android, and Windows). Most modules in this track use Xamarin.Forms, but the concepts can also be applied to native development.
 
-## Getting Started with Xamarin (XAM101)
+## Getting Started with Xamarin (XAM101) {#getting-started-xamarin}
 
 What is Xamarin? How does Xamarin.Forms differ from Xamarin.Android and Xamarin.iOS? What code can I share across my apps? Can I develop on Windows and macOS? This module answers these questions and more. By the end of the module, you will be able to choose the Xamarin approach that is right for you. You will also set up your development machine and run an app on Windows, the iOS simulator, and an Android emulator. 
 
@@ -24,7 +24,7 @@ What is Xamarin? How does Xamarin.Forms differ from Xamarin.Android and Xamarin.
 - [Introduction to the Mobile Software Development Lifecycle](https://docs.microsoft.com/en-us/xamarin/cross-platform/get-started/introduction-to-mobile-sdlc)
 - [Staying up to date with Xamarin development (blog)](https://devblogs.microsoft.com/xamarin/)
 
-## Introduction to Cross-Platform Mobile Development (XAM110)
+## Introduction to Cross-Platform Mobile Development (XAM110) {#introduction-crossplatform-development}
 
 > **Recommended Prerequisites**:  Getting Started with Xamarin (XAM101), Introduction to Xamarin.Android, Introduction to Xamarin.iOS 
 
