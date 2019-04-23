@@ -49,7 +49,7 @@ One of the advantages to using Xamarin over the traditional platform-specific ap
 - [Cross-Platform Web Services](https://docs.microsoft.com/en-us/xamarin/cross-platform/data-cloud/web-services/)
 - [#if (C# Reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/preprocessor-directives/preprocessor-if)
 
-## Consuming REST-based Web Services (XAM150)
+## Consuming REST-based Web Services (XAM150) {#consuming-rest-based-web-services}
 
 > **Recommended Prerequisites**:  Introduction to Xamarin.Forms
 
@@ -73,7 +73,7 @@ Users expect to access their information anytime from any location using any dev
 -	[TodoREST Sample](https://developer.xamarin.com/samples/xamarin-forms/WebServices/TodoREST/) 
 - [Xamarin.Essentials](https://docs.microsoft.com/en-us/xamarin/essentials/?context=xamarin/)
 
-## SQLite and Mobile Data (XAM160)
+## SQLite and Mobile Data (XAM160) {#sqlite-and-mobile-data}
 
 > **Recommended Prerequisites**:  Introduction to Xamarin.Forms
 
@@ -90,7 +90,7 @@ Many apps need to store data locally on the device so it is available even when 
 - [Xamarin.Forms Local Database Tutorial](https://docs.microsoft.com/en-us/xamarin/get-started/tutorials/local-database/)
 - [File Handling in Xamarin.Forms](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/files)
 
-## Preparing to publish your application (XAM220)
+## Preparing to publish your application (XAM220) {#preparing-to-publish-your-application}
 
 > **Recommended Prerequisites**:  Getting Started with Xamarin (XAM101)
 
@@ -118,7 +118,7 @@ The mechanics of each platform's marketplace/store are not covered in this modul
 #### iOS
 - [Developer ID and GateKeeper](https://developer.apple.com/resources/developer-id/)
 
-## Patterns for Cross Platform Mobile Development (XAM250)
+## Patterns for Cross Platform Mobile Development (XAM250) {#patterns-for-cross-platform-mobile-development}
 
 > **Recommended Prerequisites**:  Introduction to Cross-Platform Mobile Development (XAM110)
 
@@ -138,7 +138,7 @@ Sometimes you need to access platform-specific APIs that are not intrinsically a
 
 -	[Dependency resolution in Xamarin.Forms](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/internals/dependency-resolution#injecting-a-dependency-resolution-method) 
 
-## Mobile application architecture (XAM301)
+## Mobile application architecture (XAM301) {#mobile-application-architecture}
 
 > **Recommended Prerequisites**:  Introduction to Cross-Platform Mobile Development (XAM110)
 
@@ -159,7 +159,7 @@ You're going to focus on how to properly architect your application to separate 
 -	[Enterprise Application Patterns using Xamarin.Forms eBook](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/enterprise-application-patterns/) 
 
 
-## Diagnosing Memory Management Issues (XAM370)
+## Diagnosing Memory Management Issues (XAM370) {#diagnosing-memory-management-issues}
 
 There are two conceptual areas of memory in a Xamarin app: the managed memory in the Mono runtime and the memory space used for native objects. Standard .NET/Mono objects are allocated on the managed side while types like UI elements have a representation in both areas. This means there are several cases to consider when troubleshooting the memory usage of your app. This module begins by showing you how memory leaks happen in managed memory even with a sophisticated garbage collector and how to discover and fix them. It then shows you several memory issues that are specific to Xamarin.iOS and Xamarin.Android.
 
