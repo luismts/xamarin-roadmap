@@ -129,7 +129,7 @@ A veces, necesita acceder a API específicas de la plataforma que no están intr
 
 ### Enlaces útiles
 
-- [Explorando el patrón de diseño de fábrica](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee817667 (v = pandp.10))
+- [Explorando el patrón de diseño de fábrica](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee817667(v=pandp.10))
 - [Inyección de dependencia](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/enterprise-application-patterns/dependency-injection)
 - [Introducción a DependencyService](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/dependency-service/introduction)
 
