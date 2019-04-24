@@ -63,7 +63,7 @@ Los usuarios esperan acceder a su información en cualquier momento desde cualqu
 ### Enlaces útiles
 
 - [Introducción a los servicios web](https://docs.microsoft.com/en-us/xamarin/cross-platform/data-cloud/web-services/)
-- [Llamar a una API REST desde un cliente .NET](https://docs.microsoft.com/en-us/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net -cliente)
+- [Llamar a una API REST desde un cliente .NET](https://docs.microsoft.com/en-us/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net-cliente)
 - [Clase HttpClient](https://docs.microsoft.com/en-us/dotnet/api/system.net.http.httpclient)
 - [Xamarin.Essentials: Conectividad](https://docs.microsoft.com/en-us/xamarin/essentials/connectivity?tabs=android)
 
