@@ -72,7 +72,7 @@ Los usuarios esperan acceder a su información en cualquier momento desde cualqu
 - [Ejemplo de TodoREST](https://developer.xamarin.com/samples/xamarin-forms/WebServices/TodoREST/)
 - [Xamarin.Essentials](https://docs.microsoft.com/en-us/xamarin/essentials/?context=xamarin/)
 
-## SQLite y datos móviles (XAM160) {#sqlite-datos-móviles}
+## SQLite y datos móviles (XAM160) {#sqlite-datos-moviles}
 
 > **Prerrequisitos recomendados**: Introducción a Xamarin.Forms
 
@@ -89,7 +89,7 @@ Muchas aplicaciones necesitan almacenar datos localmente en el dispositivo para 
 - [Tutorial de la base de datos local de Xamarin.Forms](https://docs.microsoft.com/en-us/xamarin/get-started/tutorials/local-database/)
 - [Manejo de archivos en Xamarin.Forms](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/files)
 
-## Preparando para publicar su aplicación (XAM220) {#preparando-para-publicar-su-aplicación}
+## Preparandose para publicar su aplicación (XAM220) {#preparandose-para-publicar-su-aplicacion}
 
 > **Requisitos previos recomendados**: Introducción a Xamarin (XAM101)
 
@@ -117,7 +117,7 @@ La mecánica del mercado / tienda de cada plataforma no está cubierta en este m
 #### iOS
 - [ID de desarrollador y GateKeeper](https://developer.apple.com/resources/developer-id/)
 
-## Patrones para el desarrollo móvil multiplataforma (XAM250) {#patrones-para-el-desarrollo-móvil-multiplataforma}
+## Patrones para el desarrollo móvil multiplataforma (XAM250) {#patrones-para-el-desarrollo-movil-multiplataforma}
 
 > **Requisitos previos recomendados**: Introducción al desarrollo móvil multiplataforma (XAM110)
 
@@ -137,7 +137,7 @@ A veces, necesita acceder a API específicas de la plataforma que no están intr
 
 - [Resolución de dependencia en Xamarin.Forms](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/internals/dependency-resolution#injecting-a-dependency-resolution-method)
 
-## Arquitectura de aplicación móvil (XAM301) {#arquitectura-aplicación-móvil}
+## Arquitectura de aplicación móvil (XAM301) {#arquitectura-aplicacion-movil}
 
 > **Requisitos previos recomendados**: Introducción al desarrollo móvil multiplataforma (XAM110)
 
@@ -157,7 +157,7 @@ Se centrará en cómo diseñar adecuadamente su aplicación para separar la pres
 
 - [Patrones de aplicación empresarial utilizando el libro electrónico Xamarin.Forms](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/enterprise-application-patterns/)
 
-## Diagnóstico de problemas de administración de memoria (XAM370) {#diagnóstico-problemas-administración-memoria}
+## Diagnóstico de problemas de administración de memoria (XAM370) {#diagnostico-problemas-administracion-memoria}
 
 Hay dos áreas conceptuales de memoria en una aplicación Xamarin: la memoria administrada en el tiempo de ejecución de Mono y el espacio de memoria utilizado para los objetos nativos. Los objetos estándar .NET / Mono se asignan en el lado administrado, mientras que los tipos como los elementos de la interfaz de usuario tienen una representación en ambas áreas. Esto significa que hay varios casos a considerar cuando se soluciona el problema del uso de la memoria de su aplicación. Este módulo comienza mostrándole cómo suceden las pérdidas de memoria en la memoria administrada, incluso con un recolector de basura sofisticado y cómo descubrirlas y solucionarlas. A continuación, muestra varios problemas de memoria que son específicos de Xamarin.iOS y Xamarin.Android.
 
