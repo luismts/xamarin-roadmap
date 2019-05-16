@@ -73,14 +73,12 @@ Using the same fonts and colors across your entire UI creates a consistent look-
 
 ### Useful links
 
-- []()
-- []()
+- [Styling Xamarin.Forms Apps using XAML Styles](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/styles/xaml/index)
+- [Styling Xamarin.Forms apps using Cascading Style Sheets (CSS)](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/styles/css/index)
 
 ### Exploring on your own
 
-- []()
-- []()
-- []()
+- [Styling Xamarin.Forms Apps](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/styles/)
 
 ##  Navigation Patterns in Xamarin.Forms (XAM205) {#navigation-patterns-xamarinforms}
 
@@ -94,14 +92,13 @@ Part of planning your app’s architecture is deciding how the user will move be
 
 ### Useful links
 
-- []()
-- []()
+- [Hierarchical Navigation](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/navigation/hierarchical)
+- [Xamarin.Forms Tabbed Page](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/navigation/tabbed-page)
+- [Xamarin.Forms Modal Pages](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/navigation/modal)
 
 ### Exploring on your own
 
-- []()
-- []()
-- []()
+- [Xamarin.Forms Navigation](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/navigation/)
 
 ##  Data Binding in Xamarin.Forms (XAM270) {#data-binding-xamarinforms}
 
@@ -114,14 +111,7 @@ Most apps need to load data from code-behind into their UI and transfer user-ent
 
 ### Useful links
 
-- []()
-- []()
-
-### Exploring on your own
-
-- []()
-- []()
-- []()
+- [Data Binding Basics](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/xaml/xaml-basics/data-binding-basics)
 
 ##  Using ListView in Xamarin.Forms (XAM280) {#listview-xamarinforms}
 
@@ -141,13 +131,15 @@ ListView has a limited selection of built-in cell styles. These standard cells h
 ### Useful links
 
 - []()
-- []()
+- [Xamarin.Forms ListView](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/listview/)
+- [ListView Data Sources](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/listview/data-and-databinding)
+- [Customizing ListView Cell Appearance](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/listview/customizing-cell-appearance)
+- [Customizing ListView Appearance](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/listview/customizing-list-appearance)
+- [ListView Interactivity](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/listview/interactivity)
 
 ### Exploring on your own
 
-- []()
-- []()
-- []()
+- [ListView Performance](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/listview/performance)
 
 ##  Master-detail and Drawer Navigation (XAM290) {#master-detail-and-drawer-navigation}
 
@@ -161,14 +153,11 @@ Building a great application means creating clear navigation path through your c
 
 ### Useful links
 
-- []()
-- []()
+- [Xamarin.Forms Master-Detail Page](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/navigation/master-detail-page)
 
 ### Exploring on your own
 
-- []()
-- []()
-- []()
+- [MasterDetailPage Class](https://docs.microsoft.com/en-us/dotnet/api/xamarin.forms.masterdetailpage?view=xamarin-forms#applies-to)
 
 ##  Design an MVVM ViewModel in Xamarin.Forms (XAM320) {#mvvm-xamarinforms}
 
@@ -182,14 +171,7 @@ We're going to focus on how to properly architect your application to separate t
 
 ### Useful links
 
-- []()
-- []()
-
-### Exploring on your own
-
-- []()
-- []()
-- []()
+- [Xamarin.Forms MVVM](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/xaml/xaml-basics/data-bindings-to-mvvm)
 
 ##  Xamarin.Forms Effects (XAM330) {#effects-xamarinforms}
 
@@ -203,14 +185,12 @@ Xamarin.Forms UI elements are model objects that are converted to native platfor
 
 ### Useful links
 
-- []()
-- []()
+- [Introduction to Effects]https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/effects/()
+- [Creating an Effect](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/effects/creating)
 
 ### Exploring on your own
 
-- []()
-- []()
-- []()
+- [Xamarin.Forms Effects](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/effects/)
 
 ##  Xamarin.Forms Renderers (XAM335) {#renderers-xamarinforms}
 
@@ -224,13 +204,11 @@ What if your Xamarin.Forms app needs to display an interactive graph, a drawing 
 
 ### Useful links
 
-- []()
-- []()
+- [Introduction to custom renderers]()
+- [Renderer base classes and native controls](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/custom-renderer/renderers)
 
 ### Exploring on your own
 
-- []()
-- []()
-- []()
+- [Xamarin.Forms Custom Renderers](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/custom-renderer/)
 
 
