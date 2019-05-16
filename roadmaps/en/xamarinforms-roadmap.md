@@ -14,16 +14,14 @@ Xamarin.Forms lets you define a single UI that you share across all your support
 
 ### Useful links
 
--	[Get Visual Studio](https://visualstudio.microsoft.com/vs/) 
-- [Xamarin Development Tools](https://visualstudio.microsoft.com/xamarin/)
-- []()
-- []()
+-	[Build your first Xamarin.Forms App](https://docs.microsoft.com/en-us/xamarin/get-started/first-app/index) 
+- [Create a Single Page Xamarin.Forms Application](https://docs.microsoft.com/en-us/xamarin/get-started/quickstarts/single-page)
 
 ### Exploring on your own
 
-- []()
-- []()
-- []()
+- [Xamarin.Forms Application Fundamentals](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/)
+- [Xamarin.Forms User Interface Views](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/index)
+
 
 ##  XAML in Xamarin.Forms (XAM130) {#xaml-xamarinforms}
 
@@ -37,14 +35,13 @@ Xamarin.Forms lets you define your UI using the eXtensible Application Markup La
 
 ### Useful links
 
-- []()
-- []()
+- [eXtensible Application Markup Language (XAML)](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/xaml/index)
+- [Xamarin.Forms XAML Basics](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/xaml/xaml-basics/)
 
 ### Exploring on your own
 
-- []()
-- []()
-- []()
+- [XAML Previewer for Xamarin.Forms](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/xaml/xaml-previewer/)
+- [XAML Markup Extensions](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/xaml/markup-extensions/)
 
 ##  Layout in Xamarin.Forms (XAM135) {#layout-xamarinforms}
 
@@ -57,14 +54,13 @@ Xamarin.Forms apps run on a wide range of devices with varying screen sizes and 
 
 ### Useful links
 
-- []()
-- []()
+- [XAML Controls](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/xaml/xaml-controls)
+- [Xamarin.Forms Layouts](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/controls/layouts)
 
 ### Exploring on your own
 
-- []()
-- []()
-- []()
+- [StackLayout Class](https://docs.microsoft.com/en-us/dotnet/api/xamarin.forms.stacklayout?view=xamarin-forms)
+- [Grid Class](https://docs.microsoft.com/en-us/dotnet/api/xamarin.forms.grid?view=xamarin-forms)
 
 ##  Resources and Styles in Xamarin.Forms (XAM140) {#resources-styles-xamarinforms}
 
