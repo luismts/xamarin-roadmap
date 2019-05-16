@@ -2,7 +2,7 @@
 
 Xamarin.Forms es perfecto para aplicaciones multiplataforma que muestran "formularios sobre datos" donde el objetivo principal de la aplicación es mostrar datos de manera estandarizada. Esta pista se centra en la creación de aplicaciones Xamarin.Forms dirigidas a iOS, Android y Windows.
 
-## Introducción a Xamarin.Forms (XAM120) {# introduction-xamarinforms}
+## Introducción a Xamarin.Forms (XAM120) {#introduction-xamarinforms}
 
 > **Requisitos previos recomendados**: Introducción al desarrollo móvil multiplataforma (XAM110)
 
@@ -10,40 +10,39 @@ Xamarin.Forms le permite definir una única interfaz de usuario que comparte en 
 
 - Aprende la estructura básica de una aplicación móvil Xamarin.Forms
 - Definir una interfaz de usuario compartida para Android y iOS
-- Implementar una aplicación desde Visual Studio a Android y / o iOS
+- Implementar una aplicación desde Visual Studio a Android y/o iOS
 
-### Enlaces útiles
+### Enlaces útiles {#enlaces-utiles-xam120}
 
 - [Cree su primera aplicación Xamarin.Forms](https://docs.microsoft.com/es-es/xamarin/get-started/first-app/index)
 - [Crear una aplicación Xamarin.Forms de una sola página](https://docs.microsoft.com/es-es/xamarin/get-started/quickstarts/single-page)
 
-### Explorando por tu cuenta
+### Explorando por tu cuenta {#explorando-xam120}
 
 - [Fundamentos de la aplicación Xamarin.Forms](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/app-fundamentals/)
 - [Vistas de la interfaz de usuario de Xamarin.Forms](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/user-interface/index)
 
-
-## XAML en Xamarin.Forms (XAM130) {# xaml-xamarinforms}
+## XAML en Xamarin.Forms (XAM130) {#xaml-xamarinforms}
 
 > **Prerrequisitos recomendados**: Introducción a Xamarin.Forms (XAM120)
 
 Xamarin.Forms le permite definir su interfaz de usuario utilizando el lenguaje de marcado de aplicaciones extensible (XAML). Esto le proporciona una separación clara entre la interfaz de usuario y el comportamiento y facilita el uso de un experto en diseño y herramientas de diseño. Este curso le muestra cómo definir su UI en XAML. Creará páginas y agregará controles, todo en el marcado. También verá cómo acceder a los elementos de la IU desde el código para poder suscribirse a eventos de la IU y actualizar las propiedades de la IU a medida que cambian sus datos.
 
 - Cree la interfaz de usuario y agregue controles para una aplicación Xamarin.Forms utilizando XAML
-- Acceda a los elementos de la interfaz de usuario basados ​​en XAML desde el código
-- Suscribirse a eventos de interfaz de usuario basados ​​en XAML
+- Acceda a los elementos de la interfaz de usuario basados en XAML desde el código
+- Suscribirse a eventos de interfaz de usuario basados en XAML
 
-### Enlaces útiles
+### Enlaces útiles {#enlaces-utiles-xam130}
 
 - [eXtensible Application Markup Language (XAML)](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/xaml/index)
 - [Xamarin.Forms XAML Basics](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/xaml/xaml-basics/)
 
-### Explorando por tu cuenta
+### Explorando por tu cuenta {#explorando-xam130}
 
 - [XAML Previewer for Xamarin.Forms](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/xaml/xaml-previewer/)
 - [Extensiones de marcado XAML](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/xaml/markup-extensions/)
 
-## Diseño en Xamarin.Forms (XAM135) {# layout-xamarinforms}
+## Diseño en Xamarin.Forms (XAM135) {#layout-xamarinforms}
 
 > **Prerrequisitos recomendados**: XAML en Xamarin.Forms (XAM130)
 
@@ -52,17 +51,17 @@ Las aplicaciones Xamarin.Forms se ejecutan en una amplia gama de dispositivos co
 - Visualizar vistas en una lista vertical u horizontal usando StackLayout
 - Visualizar vistas en filas y columnas usando Grid
 
-### Enlaces útiles
+### Enlaces útiles {#enlaces-utiles-xam135}
 
 - [Controles XAML](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/xaml/xaml-controls)
 - [Diseños de Xamarin.Forms](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/user-interface/controls/layouts)
 
-### Explorando por tu cuenta
+### Explorando por tu cuenta {#explorando-xam135}
 
 - [Clase StackLayout](https://docs.microsoft.com/es-es/dotnet/api/xamarin.forms.stacklayout?view=xamarin-forms)
 - [Clase de cuadrícula](https://docs.microsoft.com/es-es/dotnet/api/xamarin.forms.grid?view=xamarin-forms)
 
-## Recursos y estilos en Xamarin.Forms (XAM140) {# resources-styles-xamarinforms}
+## Recursos y estilos en Xamarin.Forms (XAM140) {#resources-styles-xamarinforms}
 
 > **Prerrequisitos recomendados**: XAML en Xamarin.Forms (XAM130)
 
@@ -71,16 +70,16 @@ El uso de las mismas fuentes y colores en toda su interfaz de usuario crea una a
 - Crear una interfaz de usuario consistente usando recursos y estilos
 - Aplicar las opciones de accesibilidad del usuario con los estilos incorporados.
 
-### Enlaces útiles
+### Enlaces útiles {#enlaces-utiles-xam140}
 
 - [Diseñar aplicaciones de Xamarin.Forms con estilos XAML](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/user-interface/styles/xaml/index)
 - [Diseñar aplicaciones Xamarin.Forms utilizando hojas de estilo en cascada (CSS)](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/user-interface/styles/css/index)
 
-### Explorando por tu cuenta
+### Explorando por tu cuenta {#explorando-xam140}
 
 - [Styling Xamarin.Forms Apps](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/user-interface/styles/)
 
-## Patrones de navegación en Xamarin.Forms (XAM205) {# navigation-patterns-xamarinforms}
+## Patrones de navegación en Xamarin.Forms (XAM205) {#navigation-patterns-xamarinforms}
 
 > **Prerrequisitos recomendados**: Diseño en Xamarin.Forms (XAM135)
 
@@ -90,17 +89,17 @@ Parte de la planificación de la arquitectura de su aplicación es decidir cómo
 - Implementar pila y navegación de pestañas.
 - Mostrar contenido transitorio utilizando páginas modales.
 
-### Enlaces útiles
+### Enlaces útiles {#enlaces-utiles-xam205}
 
 - [Navegación jerárquica](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/app-fundamentals/navigation/hierarchical)
 - [Página tabulada de Xamarin.Forms](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/app-fundamentals/navigation/tabbed-page)
 - [Páginas modales de Xamarin.Forms](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/app-fundamentals/navigation/modal)
 
-### Explorando por tu cuenta
+### Explorando por tu cuenta {#explorando-xam205}
 
 - [Xamarin.Forms Navigation](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/app-fundamentals/navigation/)
 
-## Enlace de datos en Xamarin.Forms (XAM270) {# data-binding-xamarinforms}
+## Enlace de datos en Xamarin.Forms (XAM270) {#data-binding-xamarinforms}
 
 > **Prerrequisitos recomendados**: XAML en Xamarin.Forms (XAM130)
 
@@ -109,11 +108,11 @@ La mayoría de las aplicaciones necesitan cargar datos de código subyacente en 
 - Sincronizar datos entre su UI y el código subyacente mediante enlaces
 - Minimice el acoplamiento entre su UI y el código subyacente para permitir cambios sencillos en la UI
 
-### Enlaces útiles
+### Enlaces útiles {#enlaces-utiles-xam270}
 
 - [Fundamentos de vinculación de datos](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/xaml/xaml-basics/data-binding-basics)
 
-## Usando ListView en Xamarin.Forms (XAM280) {# listview-xamarinforms}
+## Usando ListView en Xamarin.Forms (XAM280) {#listview-xamarinforms}
 
 > **Prerrequisitos recomendados**: Enlace de datos en Xamarin.Forms (XAM270)
 
@@ -128,7 +127,7 @@ ListView tiene una selección limitada de estilos de celda incorporados. Estas c
 - Usar múltiples diseños de celdas en un solo ListView
 - Agrupar celdas en secciones.
 
-### Enlaces útiles
+### Enlaces útiles {#enlaces-utiles-xam280}
 
 - [Xamarin.Forms ListView](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/user-interface/listview/)
 - [Fuentes de datos de ListView](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/user-interface/listview/data-and-databinding)
@@ -136,11 +135,11 @@ ListView tiene una selección limitada de estilos de celda incorporados. Estas c
 - [Personalizando la apariencia de ListView](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/user-interface/listview/customizing-list-appearance)
 - [ListView Interactivity](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/user-interface/listview/interactivity)
 
-### Explorando por tu cuenta
+### Explorando por tu cuenta {#explorando-xam280}
 
 - [ListView Performance](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/user-interface/listview/performance)
 
-## Navegación de detalles maestros y cajones (XAM290) {# master-detail-and-drawer-navigation}
+## Navegación de detalles maestros y cajones (XAM290) {#master-detail-and-drawer-navigation}
 
 > **Prerrequisitos recomendados**: enlace de datos en Xamarin.Forms (XAM270), usando ListView en Xamarin.Forms (XAM280), patrones de navegación en Xamarin.Forms (XAM205)
 
@@ -150,15 +149,15 @@ Crear una gran aplicación significa crear una ruta de navegación clara a trav�
 - Alternar entre páginas con la navegación emergente del cajón
 - Mostrar una colección usando la vista dividida de detalles maestros
 
-### Enlaces útiles
+### Enlaces útiles {#enlaces-utiles-xam290}
 
 - [Página de detalles maestros de Xamarin.Forms](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/app-fundamentals/navigation/master-detail-page)
 
-### Explorando por tu cuenta
+### Explorando por tu cuenta {#explorando-xam290}
 
 - [Clase MasterDetailPage](https://docs.microsoft.com/es-es/dotnet/api/xamarin.forms.masterdetailpage?view=xamarin-forms#applies-to)
 
-## Diseñe un MVVM ViewModel en Xamarin.Forms (XAM320) {# mvvm-xamarinforms}
+## Diseñe un MVVM ViewModel en Xamarin.Forms (XAM320) {#mvvm-xamarinforms}
 
 > **Prerrequisitos recomendados**: Enlace de datos en Xamarin.Forms (XAM270), usando ListView en Xamarin.Forms (XAM280), XAML en Xamarin.Forms (XAM130), Arquitectura de aplicación móvil (XAM301)
 
@@ -168,11 +167,11 @@ Nos centraremos en cómo diseñar adecuadamente su aplicación para separar la _
 - Use un modelo de visualización para impulsar el comportamiento visual.
 - Mejora de la capacidad de prueba del código a través de propiedades vinculables a datos
 
-### Enlaces útiles
+### Enlaces útiles {#enlaces-utiles-xam320}
 
 - [Xamarin.Forms MVVM](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/xaml/xaml-basics/data-bindings-to-mvvm)
 
-## Efectos de Xamarin.Forms (XAM330) {# effects-xamarinforms}
+## Efectos de Xamarin.Forms (XAM330) {#effects-xamarinforms}
 
 > **Prerrequisitos recomendados**: Enlace de datos en Xamarin.Forms (XAM270)
 
@@ -182,16 +181,16 @@ Los elementos de la interfaz de usuario de Xamarin.Forms son objetos modelo que 
 - Crear un efecto para personalizar el comportamiento.
 - Añadir opciones de configuración a un efecto.
 
-### Enlaces útiles
+### Enlaces útiles {#enlaces-utiles-xam330}
 
 - [Introducción a los efectos](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/app-fundamentals/effects/)
 - [Creando un efecto](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/app-fundamentals/effects/creating)
 
-### Explorando por tu cuenta
+### Explorando por tu cuenta {#explorando-xam330}
 
 - [Efectos de Xamarin.Forms](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/app-fundamentals/effects/)
 
-## Representantes de Xamarin.Forms (XAM335) {# renderers-xamarinforms}
+## Representantes de Xamarin.Forms (XAM335) {#renderers-xamarinforms}
 
 > **Prerrequisitos recomendados**: Efectos de Xamarin.Forms (XAM330)
 
@@ -201,11 +200,11 @@ Los elementos de la interfaz de usuario de Xamarin.Forms son objetos modelo que 
 - Crear un nuevo control con un nuevo renderizador.
 - Enviar notificaciones entre un elemento Xamarin.Forms y controles nativos
 
-### Enlaces útiles
+### Enlaces útiles {#enlaces-utiles-xam335}
 
 - [Introducción a los renderizadores personalizados](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/app-fundamentals/custom-renderer/introduction)
 - [Clases base del renderizador y controles nativos](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/app-fundamentals/custom-renderer/renderers)
 
-### Explorando por tu cuenta
+### Explorando por tu cuenta {#explorando-xam335}
 
 - [Xamarin.Forms Custom Renderers](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/app-fundamentals/custom-renderer/)
