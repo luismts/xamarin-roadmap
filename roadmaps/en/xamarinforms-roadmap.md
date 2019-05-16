@@ -185,7 +185,7 @@ Xamarin.Forms UI elements are model objects that are converted to native platfor
 
 ### Useful links
 
-- [Introduction to Effects]https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/effects/()
+- [Introduction to Effects](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/effects/)
 - [Creating an Effect](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/effects/creating)
 
 ### Exploring on your own
