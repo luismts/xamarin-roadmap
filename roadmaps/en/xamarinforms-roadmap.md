@@ -130,7 +130,6 @@ ListView has a limited selection of built-in cell styles. These standard cells h
 
 ### Useful links
 
-- []()
 - [Xamarin.Forms ListView](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/listview/)
 - [ListView Data Sources](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/listview/data-and-databinding)
 - [Customizing ListView Cell Appearance](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/listview/customizing-cell-appearance)
@@ -204,7 +203,7 @@ What if your Xamarin.Forms app needs to display an interactive graph, a drawing 
 
 ### Useful links
 
-- [Introduction to custom renderers]()
+- [Introduction to custom renderers](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/custom-renderer/introduction)
 - [Renderer base classes and native controls](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/custom-renderer/renderers)
 
 ### Exploring on your own
