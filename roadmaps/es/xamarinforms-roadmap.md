@@ -42,7 +42,7 @@ Xamarin.Forms le permite definir su interfaz de usuario utilizando el lenguaje d
 - [XAML Previewer for Xamarin.Forms](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/xaml/xaml-previewer/)
 - [Extensiones de marcado XAML](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/xaml/markup-extensions/)
 
-## Diseño en Xamarin.Forms (XAM135) {#layout-xamarinforms}
+## Layouts en Xamarin.Forms (XAM135) {#layout-xamarinforms}
 
 > **Prerrequisitos recomendados**: XAML en Xamarin.Forms (XAM130)
 
@@ -54,7 +54,7 @@ Las aplicaciones Xamarin.Forms se ejecutan en una amplia gama de dispositivos co
 ### Enlaces útiles {#enlaces-utiles-xam135}
 
 - [Controles XAML](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/xaml/xaml-controls)
-- [Diseños de Xamarin.Forms](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/user-interface/controls/layouts)
+- [Layouts de Xamarin.Forms](https://docs.microsoft.com/es-es/xamarin/xamarin-forms/user-interface/controls/layouts)
 
 ### Explorando por tu cuenta {#explorando-xam135}
 
