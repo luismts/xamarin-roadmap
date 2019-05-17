@@ -59,7 +59,7 @@ Las aplicaciones Xamarin.Forms se ejecutan en una amplia gama de dispositivos co
 ### Explorando por tu cuenta {#explorando-xam135}
 
 - [Clase StackLayout](https://docs.microsoft.com/es-es/dotnet/api/xamarin.forms.stacklayout?view=xamarin-forms)
-- [Clase de cuadrícula](https://docs.microsoft.com/es-es/dotnet/api/xamarin.forms.grid?view=xamarin-forms)
+- [Clase Grid](https://docs.microsoft.com/es-es/dotnet/api/xamarin.forms.grid?view=xamarin-forms)
 
 ## Recursos y estilos en Xamarin.Forms (XAM140) {#resources-styles-xamarinforms}
 
