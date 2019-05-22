@@ -52,7 +52,7 @@ Suppose you have your data stored in the Azure cloud and are coding Xamarin apps
 - []()
 - []()
 
-## Authentication with Azure  (AZR110) {#authentication-azure}
+## Authentication with Azure  (AZR120) {#authentication-azure}
 
 > **Recommended Prerequisites**: Introduction to Azure (AZR120)
 
