@@ -10,13 +10,14 @@ Azure is Microsoft's subscription-model cloud-computing platform. It offers a wi
 
 ### Useful links {#useful-links-AZR101}
 
-- []()
-- []()
+- [Create an Azure account](https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/)
+- [Azure portal documentation](https://docs.microsoft.com/en-us/azure/azure-portal/)
 
 ### Exploring on your own {#exploring-AZR101}
 
-- []()
-- []()
+- [Get started guide for Azure developers](https://docs.microsoft.com/en-us/azure/guides/developer/azure-developer-guide)
+- [Mobile Apps Documentation](https://docs.microsoft.com/en-us/azure/app-service-mobile/)
+- [Xamarin y Azure](https://azure.microsoft.com/en-us/features/xamarin/)
 
 ## Building an Azure Mobile App Service (AZR110) {#building-azure-mobile-app-service}
 
@@ -28,13 +29,15 @@ Note: You will need an Azure account to complete this course. See AZR101 for det
 
 ### Useful links {#useful-links-AZR110}
 
-- []()
-- []()
+- [App Service Documentation](https://docs.microsoft.com/en-us/azure/app-service/)
+- [Create an ASP.NET Core web app in Azure](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-dotnet)
+- [Create a Node.js web app in Azure](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-nodejs)
+- [Create a Xamarin.Forms app with Azure](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-xamarin-forms-get-started)
 
 ### Exploring on your own {#exploring-AZR110}
 
-- []()
-- []()
+- [Try Azure App Service](https://azure.microsoft.com/en-us/try/app-service/)
+- [Best Practices for Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/app-service-best-practices)
 
 ## Building an Azure Mobile App Client (AZR115) {#building-azure-mobile-app-client}
 
@@ -44,13 +47,9 @@ Suppose you have your data stored in the Azure cloud and are coding Xamarin apps
 
 ### Useful links {#useful-links-AZR115}
 
-- []()
-- []()
-
-### Exploring on your own {#exploring-AZR115}
-
-- []()
-- []()
+- [How to use the managed client for Azure Mobile Apps](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-dotnet-how-to-use-client-library)
+- [Offline Data Sync in Azure Mobile Apps](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-offline-data-sync)
+- [Enable offline sync for your Xamarin.Forms mobile app](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-xamarin-forms-get-started-offline-data)
 
 ## Authentication with Azure  (AZR120) {#authentication-azure}
 
@@ -60,10 +59,5 @@ If you store customer or business data in Azure, you will need to secure it from
 
 ### Useful links {#useful-links-AZR120}
 
-- []()
-- []()
-
-### Exploring on your own {#exploring-AZR120}
-
-- []()
-- []()
+- [Authentication and authorization in Azure App Service for mobile apps](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-auth)
+- [Add authentication to your Xamarin Forms app](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-xamarin-forms-get-started-users)
