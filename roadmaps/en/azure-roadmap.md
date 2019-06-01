@@ -1,6 +1,6 @@
 # Azure {#Azure}
 
-This track focuses on creating Azure-hosted services and accessing them from your Xamarin client apps. Topics include the Azure portal, Azure Mobile App Service, connecting to Azure from a mobile client, and authentication.
+This roadmap focuses on creating Azure-hosted services and accessing them from your Xamarin client apps. Topics include the Azure portal, Azure Mobile App Service, connecting to Azure from a mobile client, and authentication.
 
 ## Introduction to Azure (AZR101) {#introduction-azure}
 
